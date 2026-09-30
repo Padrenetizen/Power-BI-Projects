@@ -1,0 +1,243 @@
+**PROJECT TITLE: Customer Satisfaction Analysis Dashboard**
+
+
+
+**PROJECT OVERVIEW**: This project analyzes the rate of customer satisfaction by first contact resolution, year, and quarter across various sectors.
+
+
+
+**BUSINESS PROBLEM**: Why are high-value customers becoming dissatisfied?
+
+
+
+**DATASET**: Innovation and customer experience dataset.
+
+
+
+**DATA MODEL**: None
+
+
+
+**TOOLS \& TECHNOLOGIES**: PowerBI
+
+
+
+**KPIS**:
+
+* Total customer loyalty index
+* Median satisfaction score
+* Median response hours
+* Total customer lifetime value
+
+
+
+**VISUALIZAIONS**
+
+* Satisfaction Score By Region
+* Average Response Hours \& Sum Satisfaction Score By Customer Tier
+* Satisfaction Score By Customer Tier
+* Escalation Level \& Success Metrics By Customer Tier
+
+
+
+**FILTERS**
+
+* First Contact Resolution
+* Interaction Year
+* Interaction Quarter
+
+
+
+**KEY INSIGHTS**
+
+**Q1 2024 Customer Satisfaction Analysis**
+
+No data available
+
+
+
+**Q2 2024 Customer Satisfaction Analysis**
+
+No data available
+
+
+
+**Q3 2024 Customer Satisfaction Insights — FCR = False**
+
+* Customer Loyalty Index: Recorded a total loyalty index of 6 among interactions that were not resolved during the first contact.
+* Median Satisfaction Score: The median satisfaction score was 1, indicating a low satisfaction outcome within the selected period.
+* Response Time: The median response time was 61.20 hours, highlighting a lengthy response cycle for unresolved-first-contact cases.
+* Customer Lifetime Value: Total customer lifetime value associated with the selected interactions was approximately 106.11K.
+* Regional Performance: São Tomé and Príncipe recorded a satisfaction score of 1.0 in the displayed regional analysis.
+* Customer Tier: The analysis was concentrated on Gold-tier customers, with a satisfaction score of 1 (100%) in the displayed breakdown.
+* Escalation: 3 cases exceeded the target, indicating potential service-performance issues among the affected Gold-tier customers.
+* Key Business Insight: Customers whose issues were not resolved on first contact experienced a combination of low satisfaction and a 61.20-hour median response time, suggesting an opportunity to investigate escalation processes, response delays, and repeat-contact drivers.
+
+
+
+**Q3 2024 Customer Satisfaction Insights — FCR = True**
+
+* Customer Loyalty Index: Recorded a total loyalty index of 40 for interactions successfully resolved during the first contact.
+* Median Satisfaction Score: The median satisfaction score increased to 3, indicating a stronger satisfaction outcome compared with unresolved-first-contact interactions.
+* Response Time: The median response time was 28.40 hours, considerably lower than the 61.20 hours recorded when First Contact Resolution was false.
+* Customer Lifetime Value: Total customer lifetime value reached approximately 848.29K.
+* Regional Performance: The Bahamas recorded the highest satisfaction score at 5, followed by Japan and Slovenia at 4.
+* Customer Tier: Silver customers contributed the largest share of satisfaction scores (12; 52.17%), followed by Platinum (7; 30.43%) and Basic (4; 17.39%).
+* Response \& Satisfaction by Tier: Basic customers had the highest average response hours at approximately 49 hours, while Silver customers had the highest satisfaction score.
+* Escalation Performance: The dashboard recorded cases across Partially Met, Exceeded Targets, and Met Targets, with the Basic and Platinum tiers appearing in partially/met-target categories.
+* Key Business Insight: Successful first-contact resolution was associated with a higher loyalty index, higher median satisfaction score, shorter median response time, and substantially higher customer lifetime value in Q3 2024.
+
+
+
+**Q4 2024 Customer Satisfaction Insights — FCR = False**
+
+* Customer Loyalty Index: Recorded a total loyalty index of 63 for interactions that were not resolved during the first contact.
+* Median Satisfaction Score: The median satisfaction score was 3.
+* Response Time: The median response time was 29.10 hours, indicating a relatively shorter response cycle than the Q3 FCR-false period.
+* Customer Lifetime Value: Total customer lifetime value reached approximately 1.02M.
+* Regional Performance: Malta recorded the highest satisfaction score at 9, followed by Estonia, Jordan, and Lao People's Democratic Republic, each at 4.
+* Customer Tier: Basic customers contributed the largest share of satisfaction scores with 13 (35.14%), followed by Gold with 9 (24.32%), Platinum with 8 (21.62%), and Silver with 7 (18.92%).
+* Response \& Satisfaction by Tier: Basic customers had the highest average response hours at approximately 13 hours, while the other tiers recorded lower response-hour levels.
+* Escalation Performance: Exceeded Targets accounted for the largest escalation category, with activity across all four customer tiers. Additional cases were recorded as Below Targets, Met Targets, and Partially Met.
+* Key Business Insight: Although these interactions were not resolved on first contact, Q4 recorded a loyalty index of 63, median satisfaction of 3, and customer lifetime value of 1.02M, while escalation outcomes varied considerably across customer tiers.
+
+
+
+**Q4 2024 Customer Satisfaction Insights — FCR = True**
+
+* Customer Loyalty Index: Recorded a total loyalty index of 56 for interactions successfully resolved during the first contact.
+* Median Satisfaction Score: The median satisfaction score was 3.
+* Response Time: The median response time was 45.50 hours for successfully resolved first-contact interactions.
+* Customer Lifetime Value: Total customer lifetime value reached approximately 703.24K.
+* Regional Performance: Côte d’Ivoire, Ghana, and Sierra Leone each recorded the highest displayed satisfaction score of 5, followed by Grenada at 4.
+* Customer Tier: Platinum customers contributed the largest share of satisfaction scores with 17 (45.95%), followed by Basic with 8 (21.62%), Gold with 7 (18.92%), and Silver with 5 (13.51%).
+* Response \& Satisfaction by Tier: Basic customers recorded the highest average response hours at approximately 8–9 hours, while Platinum customers had the highest satisfaction score.
+* Escalation Performance: Cases were recorded across Exceeded Targets, Below Targets, Partially Met, and Met Targets, with the largest concentration appearing under Exceeded Targets.
+* Key Business Insight: Q4 interactions resolved on first contact recorded a loyalty index of 56 and median satisfaction score of 3, with Platinum customers contributing the largest share of satisfaction scores.
+
+
+
+**Q1 2025 Customer Satisfaction Analysis**
+
+No data available.
+
+
+
+**Q2 2025 Customer Satisfaction Insights — FCR = False**
+
+* Customer Loyalty Index: Recorded a total loyalty index of 3 for interactions that were not resolved during the first contact.
+* Median Satisfaction Score: The median satisfaction score was 4.
+* Response Time: The median response time was 30.15 hours.
+* Customer Lifetime Value: Total customer lifetime value stood at approximately 482.58K.
+* Regional Performance: Eritrea recorded a satisfaction score of 5, while French Guiana recorded a score of 2.
+* Customer Tier: Silver customers accounted for 100% of the displayed satisfaction score, with a total score of 7.
+* Response \& Satisfaction by Tier: Silver customers recorded an average response time of approximately 30 hours alongside a satisfaction score of 7.
+* Escalation Performance: The dashboard recorded 3 cases that exceeded targets and 2 cases that met targets for Silver customers.
+* Key Business Insight: For Q2 2025 interactions that were not resolved on first contact, the dashboard recorded a median satisfaction score of 4 and 30.15-hour median response time, with the displayed activity concentrated entirely within the Silver customer tier.
+
+
+
+**Q2 2025 Customer Satisfaction Insights — FCR = True**
+
+* Customer Loyalty Index: Recorded a total loyalty index of 4 for interactions successfully resolved during the first contact.
+* Median Satisfaction Score: The median satisfaction score was 5, indicating the highest satisfaction level shown on the dashboard's scale.
+* Response Time: The median response time was 45.15 hours.
+* Customer Lifetime Value: Total customer lifetime value stood at approximately 31.71K.
+* Regional Performance: Saint Vincent and the Grenadines recorded a satisfaction score of 5, while New Caledonia recorded 4.
+* Customer Tier: Basic customers contributed 5 (55.56%) of the displayed satisfaction score, while Gold customers contributed 4 (44.44%).
+* Response \& Satisfaction by Tier: Basic customers recorded an average response time of approximately 42 hours, while Gold customers recorded approximately 48 hours.
+* Escalation Performance: The dashboard recorded 2 Gold cases that met targets and 2 Basic cases that were partially met.
+* Key Business Insight: Q2 2025 interactions resolved on first contact recorded a median satisfaction score of 5, with satisfaction distributed across Basic and Gold customers and escalation outcomes split between Met Targets and Partially Met.
+
+
+
+**Q3 2025 Customer Satisfaction Insights — FCR = False**
+
+* Customer Loyalty Index: Recorded a total loyalty index of 288 for interactions that were not resolved during the first contact.
+* Median Satisfaction Score: The median satisfaction score was 4.
+* Response Time: The median response time was 37.95 hours.
+* Customer Lifetime Value: Total customer lifetime value reached approximately 5.82M.
+* Regional Performance: Lithuania recorded the highest displayed satisfaction score at 6, followed by Myanmar at 5. Several regions—including Algeria, Azerbaijan, Belgium, Benin, Fiji, Indonesia, Nepal, and others—recorded scores of 5.
+* Customer Tier: Silver customers contributed the largest share of satisfaction scores with 69 (40.59%), followed by Gold with 46 (27.06%), Platinum with 28 (16.47%), and Basic with 27 (15.88%).
+* Response \& Satisfaction by Tier: Silver customers recorded the highest satisfaction score, while Basic customers had the highest average response time at approximately 48 hours. Silver customers had an average response time of roughly 38 hours.
+* Escalation Performance: Cases were distributed across Exceeded Targets, Met Targets, Partially Met, and Below Targets, with all four customer tiers represented across the escalation categories.
+* Key Business Insight: Q3 2025 interactions that were not resolved on first contact generated a 288 loyalty index, median satisfaction score of 4, and 5.82M in customer lifetime value. Silver customers represented the largest share of the satisfaction-score distribution.
+
+
+
+**Q3 2025 Customer Satisfaction Insights — FCR = True**
+
+* Customer Loyalty Index: Recorded a total loyalty index of 303 for interactions successfully resolved during the first contact.
+* Median Satisfaction Score: The median satisfaction score was 3.
+* Response Time: The median response time was 32.40 hours.
+* Customer Lifetime Value: Total customer lifetime value reached approximately 7.45M.
+* Regional Performance: Afghanistan, Bahamas, and Italy each recorded the highest displayed satisfaction score of 9. Dominican Republic and Lithuania followed with scores of 7.
+* Customer Tier: Basic customers contributed the largest share of satisfaction scores with 78 (40.21%), followed by Platinum with 41 (21.13%), Silver with 38 (19.59%), and Gold with 37 (19.07%).
+* Response \& Satisfaction by Tier: Basic customers recorded the highest average response time at approximately 78 hours, while Platinum recorded about 42 hours and Gold about 44 hours.
+* Escalation Performance: Cases were distributed across Exceeded Targets, Below Targets, Partially Met, and Met Targets, with all four customer tiers represented across the escalation categories.
+* Key Business Insight: Q3 2025 interactions resolved on first contact recorded a loyalty index of 303, median satisfaction score of 3, and total customer lifetime value of 7.45M. Basic customers accounted for the largest share of the displayed satisfaction-score distribution.
+
+
+
+**Q4 2025 Customer Satisfaction Insights — FCR = False**
+
+* Customer Loyalty Index: Recorded a total loyalty index of 686 for interactions that were not resolved during the first contact.
+* Median Satisfaction Score: The median satisfaction score was 3.
+* Response Time: The median response time was 39.10 hours.
+* Customer Lifetime Value: Total customer lifetime value reached approximately 14.92M.
+* Regional Performance: Austria recorded the highest displayed satisfaction score at 12, followed by Cocos (Keeling) Islands at 11, while Haiti and Nepal each recorded 10.
+* Customer Tier: Silver contributed the largest share of the satisfaction score with 109 (28.24%), followed by Gold with 98 (25.39%), Platinum with 92 (23.83%), and Basic with 87 (22.54%).
+* Response \& Satisfaction by Tier: Silver customers recorded the highest average response hours at approximately 30 hours, while Gold customers had the highest displayed satisfaction score at around 98.
+* Escalation Performance: Cases were distributed across Partially Met, Exceeded Targets, Below Targets, and Met Targets, with all four customer tiers represented across the escalation categories.
+* Key Business Insight: Q4 2025 recorded substantially higher customer lifetime value (14.92M) and customer loyalty index (686) despite the interactions not being resolved on first contact. The customer base was also more evenly distributed across the four tiers than in the earlier quarters shown.
+
+
+
+**Q4 2025 Customer Satisfaction Insights — FCR = True**
+
+* Customer Loyalty Index: Recorded a total loyalty index of 863 for interactions successfully resolved during the first contact.
+* Median Satisfaction Score: The median satisfaction score was 3.
+* Response Time: The median response time was 37.30 hours.
+* Customer Lifetime Value: Total customer lifetime value reached approximately 21.50M.
+* Regional Performance: San Marino recorded the highest displayed satisfaction score at 18, followed by Syria at 15 and Hungary at 10.
+* Customer Tier: Platinum customers contributed the largest share of the satisfaction score with 125 (28.80%), followed by Basic with 113 (26.04%), Gold with 103 (23.73%), and Silver with 93 (21.43%).
+* Response \& Satisfaction by Tier: Silver customers had the lowest average response hours at approximately 32 hours, while Basic customers recorded the highest average response hours at approximately 40 hours.
+* Escalation Performance: Cases were distributed across Partially Met, Met Targets, Exceeded Targets, and Below Targets, with all four customer tiers represented across the escalation categories.
+* Key Business Insight: Q4 2025 first-contact-resolved interactions recorded a customer loyalty index of 863, median satisfaction score of 3, and customer lifetime value of 21.50M. Satisfaction scores were relatively distributed across all four customer tiers, with Platinum contributing the largest share.
+
+
+
+**BUSINESS RECOMMENDATIONS**
+
+Based on the customer satisfaction analysis from Q3 2024 to Q4 2025, the following business recommendations can be derived:
+
+
+
+**1. Improve First Contact Resolution (FCR)**
+
+Prioritize resolving customer issues during the first interaction to reduce repeat contacts and improve service efficiency.
+
+Analyze the main reasons cases fail FCR and create targeted resolution guides, knowledge-base articles, and agent workflows.
+
+Monitor FCR alongside satisfaction, response time, loyalty index, and customer lifetime value rather than using FCR as a standalone KPI.
+
+
+
+**2. Reduce Customer Response Times**
+
+Investigate cases with unusually high response times, particularly where average response hours approach or exceed 40+ hours.
+
+Set response-time targets by customer tier and issue type.
+
+Introduce alerts for cases approaching SLA deadlines so they can be escalated before targets are missed.
+
+
+
+**3. Prioritize High-Value Customers**
+
+Use Customer Lifetime Value (CLV) to identify customers whose unresolved issues could have greater financial impact.
+
+Establish priority service queues for high-value customers while maintaining appropriate service standards for all customers.
+
+Track CLV alongside satisfaction and FCR to identify segments requiring additional retention attention.
+
